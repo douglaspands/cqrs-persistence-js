@@ -1,5 +1,5 @@
 {
-  "name": "cqrs-persistent",
+  "name": "cqrs-persistence",
   "version": "0.1.1",
   "description": "CQRS de persistencia utilizando RabbitMQ, MongoDB e Redis",
   "main": "index.js",
@@ -10,7 +10,8 @@
     "rabbitmq",
     "redis",
     "mongodb",
-    "cqrs"
+    "cqrs",
+    "nodejs"
   ],
   "author": "douglaspands",
   "license": "ISC",
