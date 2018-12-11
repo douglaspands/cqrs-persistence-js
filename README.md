@@ -1,0 +1,2 @@
+# cqrs-persistent-js
+CQRS pattern utilizando RabbitMQ, MongoDB e Redis para Node.js.
